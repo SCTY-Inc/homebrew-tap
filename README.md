@@ -1,7 +1,7 @@
 # SCTY Homebrew tap
 
 ```bash
-brew install --cask scty-inc/tap/<app>
+brew install scty-inc/tap/<app>
 ```
 
 | Cask | App |

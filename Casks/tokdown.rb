@@ -7,7 +7,7 @@ cask "tokdown" do
   desc "Menu bar meeting recorder with local markdown transcripts"
   homepage "https://github.com/SCTY-Inc/tokdown"
 
-  depends_on macos: ">= :tahoe"
+  depends_on macos: :tahoe
 
   app "TokDown.app"
 end
