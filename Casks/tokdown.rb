@@ -1,6 +1,6 @@
 cask "tokdown" do
-  version "1.0.1"
-  sha256 "0afbb977c202c214ab278d8a9ddd07a96ce7d04d0cc3045c1515fcca677cfca7"
+  version "1.0.2"
+  sha256 "fde2cff515974cfcf4daa1e64f453942e523b086cf72f57dc17a116e2e7d110d"
 
   url "https://github.com/SCTY-Inc/tokdown/releases/download/v#{version}/TokDown.app.zip"
   name "TokDown"
